@@ -10,9 +10,13 @@ Story: You are a young wizard 🧙‍♂️, just learning how to make spells. Y
 Strategies:
 
 Keep upgrading 1 letter, like a J. Get the Zipper Mouth 🤐 so that when you don't get the J, just skip your turn. Remove lots of other letters. Get the 1st Place Medal 🥇 to 2x the first letter, since J is always the first letter.
+
 Long words. Get the Nerd Face 🤓 and Slot Machine 🎰 to 5x long words. Collect exclamation marks to make it easier to make long words. Also get 🆖 and try to add ING to words to make them long.
+
 Healing. Get the Syringe 💉 to damage enemies when you heal. Get the Stethoscope 🩺 and Bandage 🩹 to heal more. Collect letters that heal.
+
 Paperclips. Get the Linked Paperclips 🖇 and Filing Cabinet 🗄 to boost kept letters. Collect more letters with paperclips on them.
+
 Also play on curtastic.com and follow me on X @curtastic
 
 Credits:
