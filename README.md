@@ -5,7 +5,7 @@ This is a roguelike deckbuilder where you have to collect letters and then make 
 
 PLAY INSTANTLY ON ANY DEVICE: https://curtastic.com/spellspells/
 
-Story: You are a young wizard 🧙‍♂️, just learning how to make spells. Your grandma 👵 has used her magic foresight to determine that an evil dragon 🐉 will arrive in 13 days to destroy our hometown. She gives you a book of letters so that you can learn to make spells. Until the dragon comes, you'll need to go out every night to increase your skill by defeating monsters. Why don't other help and why don't the shopkeepers just give you everything free, if you're going to save everyone's lives? Because they don't believe the dragon is real.
+Story: You are a young wizard 🧙‍♂️, just learning how to make spells. Your grandma 👵 has used her magic foresight to determine that an evil dragon 🐉 will arrive in 13 days to destroy our hometown. She gives you a book of letters so that you can learn to make spells. Until the dragon comes, you'll need to go out every night to increase your skill by defeating monsters. Why don't other poeple help and why don't the shopkeepers just give you everything free, if you're going to save everyone's lives? Because they don't believe the dragon is real.
 
 Strategies:
 
